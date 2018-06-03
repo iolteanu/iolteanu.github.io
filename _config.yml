@@ -1,0 +1,11 @@
+title: jLearn Blog
+author: Ionel Olteanu
+email: olteanu94@gmail.com
+url: iolteanu.github.io
+description: > # this means to ignore newlines until "baseurl:"
+  Simple blog to follow my findings across the JVM world
+
+github_username:  iolteanu
+
+sass:
+    style: compressed
