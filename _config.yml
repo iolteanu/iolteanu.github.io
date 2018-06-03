@@ -10,5 +10,9 @@ disqus:
 
 github_username: iolteanu
 
+iolteanu:
+    name: Ionel Olteanu
+    #web: https://www.twitter.com/kittylainey
+
 sass:
     style: compressed
