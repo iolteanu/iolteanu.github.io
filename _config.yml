@@ -5,7 +5,10 @@ url: iolteanu.github.io
 description: > # this means to ignore newlines until "baseurl:"
   Simple blog to follow my findings across the JVM world
 
-github_username:  iolteanu
+disqus:
+  shortname: iolteanu.github.io
+
+github_username: iolteanu
 
 sass:
     style: compressed
